@@ -10,7 +10,7 @@ function App() {
         <div className="App">
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
-            <h1>Hello from V2</h1>
+            <h1>Hello with auth!</h1>
             <button onClick={signOut}>Sign out</button>
           </header>
         </div>
